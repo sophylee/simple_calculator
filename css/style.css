@@ -1,3 +1,15 @@
+.container {
+  width:130px;
+}
+
 .screen {
   height: 20px;
+}
+
+.number, .operator {
+  width:22%;
+}
+
+#equals {
+  width:47%;
 }

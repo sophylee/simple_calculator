@@ -1,7 +1,4 @@
 $(function (){
-  this.total = 0;
-  this.queue;
-
   $("#one").click(function () {
     $(".screen").append("1");
   });

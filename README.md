@@ -1,0 +1,3 @@
+# Calculator
+
+Open `index.html`

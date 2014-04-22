@@ -13,3 +13,8 @@
 #equals {
   width:47%;
 }
+
+.screen {
+  width:128px;
+  text-align:right;
+}
